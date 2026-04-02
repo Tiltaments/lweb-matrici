@@ -4,6 +4,8 @@ int main() {
 
    printf("Hello World!\n\n\n");
    
-system("PAUSE"); 
-return 0;
+system("PAUSE");
+   
+ho cancellato return
+   /* la funzione è sbagliata */
 }
