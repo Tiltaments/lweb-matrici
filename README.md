@@ -1,6 +1,6 @@
-# lweb-matrici
-progetto sulle matrici
+# programmi_C
+progetto sul linguaggio C
 
-libreria per lo sviluppo di sistemi di calcolo matriciale
+libreria per le operazioni basi del linguaggio C
 
-🍋 🍇 ✒️
+🍋 🍇 
